@@ -20,7 +20,7 @@ Use it before creating or redesigning a deck, especially when the request is vag
 - Preserve source fidelity: never invent statistics, quotes, customer claims, screenshots, logos, or citations.
 - Treat accessibility, speaker notes, and rendering review as part of completion.
 
-Load [references/presentation-foundations.md](references/presentation-foundations.md) when choosing a narrative, composing slides, or reviewing a deck. Load [references/presentation-source-catalog.md](references/presentation-source-catalog.md) when the task needs current platform guidance, chart patterns, or visual calibration.
+Load [references/presentation-foundations.md](references/presentation-foundations.md) when choosing a narrative, composing slides, or reviewing a deck. Load [references/presentation-source-catalog.md](references/presentation-source-catalog.md) when the task needs current platform guidance, chart patterns, or visual calibration. Load [references/presentation-case-library.md](references/presentation-case-library.md) when choosing a real presentation reference for a new deck.
 
 ## Workflow
 
@@ -49,9 +49,10 @@ Use the minimum research needed to support the design. For non-trivial decks, ga
 1. One platform or output constraint source appropriate to the deliverable.
 2. Two relevant content or product references for the deck's domain and audience.
 3. Two or three theory lenses from `presentation-foundations.md`.
-4. At most one visual-direction reference, used for composition or tone rather than copied content.
+4. One actual case from `presentation-case-library.md` that matches the delivery context.
+5. At most one visual-direction reference, used for composition or tone rather than copied content.
 
-For data or factual decks, separate source evidence from visual inspiration. Cite facts near their claims or place full citations in notes/end matter as appropriate. If evidence is incomplete, label the slide as a hypothesis, decision request, or illustrative concept instead of presenting it as fact.
+For data or factual decks, separate source evidence from visual inspiration. Cite facts near their claims or place full citations in notes/end matter as appropriate. If evidence is incomplete, label the slide as a hypothesis, decision request, or illustrative concept instead of presenting it as fact. State which real case informed the design and which elements were adapted, such as pacing, hierarchy, demo rhythm, or evidence treatment. Never copy another organization's branding, proprietary content, slide wording, or visual assets.
 
 ### 3. Choose the Narrative Spine
 

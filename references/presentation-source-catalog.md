@@ -40,10 +40,14 @@ Use sources in proportion to the task. Platform references set delivery constrai
 | [Behance Presentation projects](https://www.behance.net/search/projects?search=presentation%20design) | Broad visual-language calibration only |
 | [Slideshare](https://www.slideshare.net/) | Topic-specific deck patterns; verify authorship and facts independently |
 
+## Actual Presentation Cases
+
+Use the curated real-world cases in [presentation-case-library.md](presentation-case-library.md) when a deck needs a directly observable reference. The library contains public recordings and PDFs across product launches, startup fundraising, investor communication, research, data storytelling, policy, advocacy, and training.
+
 ## Reference Selection Rules
 
 1. Start with the delivery platform and the audience's decision context.
-2. Select two domain-relevant references before selecting a general visual trend.
+2. Select one actual case matching the deck type and one domain-relevant reference before selecting a general visual trend.
 3. Use no more than one purely aesthetic reference per deck direction.
 4. Adapt hierarchy, rhythm, and information patterns; do not clone a brand, layout, or proprietary visual asset.
 5. Prefer the supplied brand system, data, and product images over external inspiration.
