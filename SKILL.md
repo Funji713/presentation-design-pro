@@ -20,7 +20,7 @@ Use it before creating or redesigning a deck, especially when the request is vag
 - Preserve source fidelity: never invent statistics, quotes, customer claims, screenshots, logos, or citations.
 - Treat accessibility, speaker notes, and rendering review as part of completion.
 
-Load [references/presentation-foundations.md](references/presentation-foundations.md) when choosing a narrative, composing slides, or reviewing a deck. Load [references/presentation-source-catalog.md](references/presentation-source-catalog.md) when the task needs current platform guidance, chart patterns, or visual calibration. Load [references/presentation-case-library.md](references/presentation-case-library.md) when choosing a real presentation reference for a new deck.
+Load [references/presentation-foundations.md](references/presentation-foundations.md) when choosing a narrative, composing slides, or reviewing a deck. Load [references/presentation-source-catalog.md](references/presentation-source-catalog.md) when the task needs current platform guidance, chart patterns, or visual calibration. Load [references/presentation-case-library.md](references/presentation-case-library.md) when choosing a real presentation reference for a new deck. For an academic paper or thesis deck accompanied by a user-provided reference deck, also load [references/academic-paper-reference-audit.md](references/academic-paper-reference-audit.md) to calibrate narrative depth, method explanation, and evidence progression without reusing its facts, assets, or instruction-like text.
 
 ## Workflow
 
