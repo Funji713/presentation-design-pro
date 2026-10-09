@@ -1,13 +1,13 @@
 ---
 name: presentation-design-pro
-description: Design evidence-led, decision-oriented presentation systems before production. Use for executive decks, sales decks, product narratives, research and thesis presentations, investor pitches, training materials, and visual slide redesigns where audience, narrative, evidence, chart choice, accessibility, or production route need deliberate design.
+description: Design evidence-led presentations with a slide-by-slide layout blueprint and visual storyboard before production. Use for executive, sales, product, research, investor, training, or redesign work where audience, narrative, evidence, layout, accessibility, or production route need deliberate design.
 ---
 
 # Presentation Design Pro
 
 ## Purpose
 
-Create presentations that help a defined audience understand, decide, or act. This skill designs the narrative and visual system before slide production; it does not replace the production skills.
+Create presentations that help a defined audience understand, decide, or act. This skill designs the narrative, per-slide layout, and visual system before slide production; it does not replace the production skills.
 
 Use it before creating or redesigning a deck, especially when the request is vague, high-stakes, data-heavy, or intended for a live audience. Skip only for a narrow edit to an already approved deck.
 
@@ -94,8 +94,16 @@ Define a compact system before production:
 - Reusable grid, margins, alignment, page number, and citation treatment.
 - Three to five slide archetypes, such as opener, assertion-evidence, comparison, process, metric, and decision/close.
 - Imagery with a clear job: establish context, show product reality, explain mechanism, or provide evidence. Never use stock imagery merely to fill space.
+- Favor a clear pairing of concise text and a relevant image when that helps the audience grasp the point. Look first for a corresponding photo, figure, diagram, or screenshot in the supplied source material and preserve its provenance. If no suitable source image exists, generate an illustration or conceptual visual with imagegen without asking for an extra design decision. Plan its aspect ratio and subject placement for the slide. Never present a generated visual as a source screenshot, real product state, data, or documentary evidence; keep charts and required editable evidence in the appropriate native form.
+- Prefer an open, editorial canvas: use typography, alignment, whitespace, image composition, and the evidence itself to organize content. Avoid repeated rounded cards, bordered rectangles, equal-sized tile grids, and decorative panels that make slides look like generic AI dashboards. Use a container only when its boundary communicates a real grouping, comparison, or interaction.
 
 Calibrate density to the setting. A live deck may use sparse assertion-evidence slides and notes; an async reading deck needs more explicit labels, context, and citations. Do not force a document-like deck into a live-talk visual style.
+
+### 5a. Specify and Show Every Slide
+
+For a new deck or substantive redesign, turn the slide inventory into a **slide-by-slide layout blueprint**, not just an outline. For each slide, identify the content elements and their relative placement and size; assign the title, evidence, annotations, sources, and any supporting text to the composition. Describe relationships and reading order without assuming each element needs a visible box. State the visual treatment that matters for execution, such as type hierarchy, emphasis color, image crop, chart encoding, whitespace, and alignment. Use actual slide wording and evidence where available. Mark missing material as a visible placeholder or hypothesis; do not invent it to make a mockup look complete.
+
+Show the design visually. Render a draft frame for **every slide** at the intended aspect ratio, using the selected palette, typography, layout, and representative content. A contact sheet helps review the whole deck; individual frames must remain legible enough to review each page. A textual description or ASCII wireframe alone does not satisfy a request to see the visual effect. When the task proceeds to a finished deck, its rendered slides can serve as these frames; do not create a redundant preview artifact. When the user requests only a plan, provide the blueprint and visual storyboard without implying that the draft frames are a finished or fully editable deck. Follow [slide blueprint and storyboard](references/slide-blueprint-storyboard.md) for the compact per-slide record and preview checks.
 
 ### 6. Choose Evidence and Charts Deliberately
 
@@ -139,7 +147,7 @@ Required checks:
 - **Accessibility:** Logical reading order, descriptive titles, contrast, alt text for meaningful visuals, captions or transcripts for media, and non-color cues.
 - **Production:** Links work when required, notes are included when requested, and exported PDF/PPTX/HTML opens correctly.
 
-For a new deck, return the deck contract, slide inventory, chosen visual direction, production artifact, and any explicit assumptions or evidence gaps. For a redesign, state what changed in the narrative, density, accessibility, and visual system.
+For a new deck, return the deck contract, slide-by-slide blueprint, visual storyboard or rendered deck, chosen visual direction, production artifact when requested, and any explicit assumptions or evidence gaps. For a redesign, state what changed in the narrative, density, accessibility, and visual system, and show the revised slides.
 
 ## Boundaries
 
