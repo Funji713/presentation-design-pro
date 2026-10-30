@@ -33,20 +33,20 @@ Read the complete supplied material, including captions, methods, metrics, and l
 
 Distinguish source facts, teaching inferences, and unresolved gaps. Check technical claims against the primary source even when they appear in a user-edited reference. Use external primary sources only for missing facts or required context. Do not add claims to fill space.
 
-Retain a source-to-slide coverage map. It is a fidelity check, not a rule to reproduce publication order. Explain internally why a branch is emphasized and where other important claims are summarized, deferred, or omitted for scope.
+Retain a source-to-slide coverage map. For research papers, map the paper's major sections to the deck's chapters and explain where important claims are summarized, deferred, or omitted for scope.
 
 ## 3. Build the narrative for comprehension
 
 | Context | Useful organizing logic |
 | --- | --- |
-| Academic paper / thesis | Problem and contribution; necessary data/model prerequisites; workflow and meaningful stages; mechanism with motivating examples; evidence; limitations and implication |
+| Academic paper / thesis | Follow the paper's major sections as chapters; plan topics, modules and methods within each chapter, then present evidence, limitations and implications |
 | Executive decision | Decision, stakes, evidence, options, recommendation, next step |
 | Product / strategy | Audience problem, insight, direction, proof, operating plan |
 | Training | Desired behavior, model, demonstration, practice, application |
 | Project update | Status, changes, risks, decisions and owners |
 | General article | Its actual argument and meaningful headings, adapted for audience comprehension |
 
-For a paper, preserve a requested order; otherwise move prerequisites before technical detail and reorganize dense methods into genuine stages. Give lightweight orientation early, then place the detailed workflow after the audience can identify its main entities. Do not force every method into identical chapters or invent training stages for a paper that has none.
+For a research paper, use its actual major section headings and order as the default chapter structure. Assess whether Abstract and Introduction should be combined based on their content and the available slide budget; either choice is valid. Within each chapter, identify and sequence the relevant topics, subheadings, modules and methods so prerequisites precede technical details. Preserve substantive coverage and do not invent stages. An explicitly requested structure overrides this default.
 
 Use chapter title pages for major changes in the audience's question when the budget permits. A calm text-only divider is valid. A cover, contents, and major dividers are the user's usual full-talk conventions, not compulsory additions to a short deliverable. The standalone final thank-you slide remains mandatory even for a short deck. A typographic cover can identify the topic and supplied presenter/date/publication information; never copy personal details from the calibration example.
 

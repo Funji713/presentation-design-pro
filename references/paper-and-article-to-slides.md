@@ -1,6 +1,6 @@
 # Paper and Article to Slides
 
-Use for a source-based deck, including a one-line request with no outline. For academic work, also apply [personal academic preferences](personal-academic-preferences.md). The paper supplies evidence; the talk follows learning dependencies. Preserve an explicit user-specified structure.
+Use for a source-based deck, including a one-line request with no outline. For academic work, also apply [personal academic preferences](personal-academic-preferences.md). For research papers, use the paper's major sections as the default chapter structure and arrange material within them according to learning dependencies. Preserve an explicit user-specified structure.
 
 ## Recover evidence before choosing chapters
 
@@ -13,12 +13,12 @@ Build two compact internal maps:
 | Evidence coverage | Source section/page/panel → claim and condition → slide or reason for deferral |
 | Learning dependencies | Term/component/stage → prerequisite → first explanation → later use |
 
-Do not mirror publication headings mechanically. Papers may put essential methods after results or use broad headings that conceal stages. Preserve fidelity through coverage while choosing a teachable sequence. Keep results distinguishable from interpretation.
+Map the paper's actual major headings and order into presentation chapters, rather than replacing them with a newly invented top-level structure. Assess whether Abstract and Introduction should be combined based on their content and available slides. Within each chapter, identify and organize the specific topics, subheadings, modules and methods needed for comprehension; introduce prerequisites before dependent details. Keep results distinguishable from interpretation. Preserve an explicit user-requested order or structure when supplied.
 
 ## Construct the outline independently
 
 1. Establish the question and scope. For multiple model/data branches, identify the focus from current context. Otherwise cover the central claim and summarize other branches; never inherit SuperAnimal's SA-Q-only scope for another topic.
-2. Give early orientation: problem, what changes, and why it matters. The abstract can help; a short deck need not have a separate abstract chapter.
+2. Give early orientation: problem, what changes, and why it matters. Decide whether Abstract and Introduction work better together or as separate chapters; do not automatically require or omit an Abstract chapter.
 3. Introduce data/model concepts needed to read the method. Use a family comparison or architecture page only to resolve a prerequisite, not as an encyclopedic survey.
 4. Place the detailed workflow when the audience can name its main entities. Identify which steps belong to which stage, what changes/stays fixed, and what supervision is available.
 5. Organize explanations by real stages or causal questions. A suitable ML paper may use pretraining, supervised adaptation, and inference; another field may use acquisition, intervention, and evaluation. Never manufacture stages to copy a case.
