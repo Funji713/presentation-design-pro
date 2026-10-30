@@ -9,8 +9,8 @@ Save UTF-8 Markdown next to the deck, with a shared filename stem, for example `
 Include:
 
 1. **Brief:** topic, audience, purpose, scope, language, time/slide count, template, and relevant assumptions.
-2. **Chapter overview:** chapter, purpose, slide range, and number of slides. Count cover, contents, chapter dividers, and closing in the total. Markdown headings and production notes are not additional slides.
-3. **One entry per slide:** actual position `P01`, `P02`, etc.; slide type; chapter; final title; purpose/prerequisite; exact visible text, table values or equations; selected figure and its page/panel; composition and annotations; speaker notes; and provenance/conditions. Label the on-slide content separately from production directions and notes. Structural pages can have concise entries but must not be omitted.
+2. **Chapter overview:** chapter, purpose, slide range, and number of slides. Reserve and count a standalone final「謝謝聆聽」slide within the total, even for a short deck, alongside any cover, contents, and chapter dividers. Use this exact closing wording unless the user explicitly overrides the closing wording or language. Markdown headings and production notes are not additional slides.
+3. **One entry per slide:** actual position `P01`, `P02`, etc.; slide type; chapter; final title; purpose/prerequisite; exact visible text, table values or equations; selected figure and its page/panel; composition and annotations; speaker notes; and provenance/conditions. Label the on-slide content separately from production directions and notes. Structural pages can have concise entries but must not be omitted. The last slide entry must describe the standalone final「謝謝聆聽」page (or an explicit user wording/language override). Put conclusions, Q&A, sources, credits pages, and appendix/backup entries before it; required template credit may be unobtrusive on the closing.
 4. **Sources and assets:** bibliographic references and usable figure/asset links where available. Bundle referenced local assets beside the MD with relative paths when needed for reuse; otherwise provide the source file/page/panel and intended crop. Never link to transient scratch paths or claim an unproduced image exists.
 
 Suggested per-slide shape (adapt labels to the content language):
@@ -37,7 +37,7 @@ Suggested per-slide shape (adapt labels to the content language):
 </details>
 ```
 
-Before delivery, compare the Markdown with the final deck: same total and sequence, one entry per slide, matching titles/numbers, consistent figures, and matching speaker notes. Update navigation and chapter counts after any slide insertion/deletion/reorder. When editing an existing deck, synchronize its companion MD or create one from the final deck if none exists, unless the user excludes it. A planning-only document should say it is a plan; a final-deck companion should identify the delivered filename and final slide count.
+Before delivery, compare the Markdown with the final deck: same total and sequence, one entry per slide, matching titles/numbers, consistent figures, and matching speaker notes. Verify that the final rendered slide and the last slide entry are the same standalone thank-you page, with no later slides, including hidden or backup slides. Keep it clean in the existing template without forcing a decorative visual. Update navigation and chapter counts after any slide insertion/deletion/reorder. When editing an existing deck, synchronize its companion MD or create one from the final deck if none exists, unless the user excludes it. A planning-only document should say it is a plan; a final-deck companion should identify the delivered filename and final slide count.
 
 ## Per-slide record
 
