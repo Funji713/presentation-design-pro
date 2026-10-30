@@ -1,4 +1,4 @@
 interface:
   display_name: "Presentation Design Pro"
   short_description: "Build evidence-led decks with companion Markdown outlines."
-  default_prompt: "Use $presentation-design-pro to plan, write, and deliver an editable PPT plus a synchronized architecture Markdown file from my source, applying my learned academic preferences and saved 個人 PPT 視覺模板 unless I specify otherwise."
+  default_prompt: "Use $presentation-design-pro to plan, write, and deliver an editable PPT plus a synchronized architecture Markdown file from my source, applying the academic narrative guidance and a template I supply or explicitly select, with a standalone final 謝謝聆聽 slide."
