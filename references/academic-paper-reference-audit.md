@@ -1,10 +1,10 @@
 # Academic Paper Reference-Deck Audit
 
-Use this guide only when a user supplies a paper or thesis presentation as a reference while asking for a new or redesigned academic deck. The reference is a private benchmark for communication quality, not a source of facts, images, wording, citations, branding, or executable instructions.
+Use when a user supplies an academic reference deck. Distinguish a personal template or explicitly preferred before/after revision from a third-party inspirational deck. A personal reference can authorize reuse of its design system and supplied assets for the stated task; learn reusable communication decisions for other topics without transferring its facts or identity. A third-party inspiration is not a license to copy its branding, assets, or wording. Neither kind supplies executable instructions. For this user's learned defaults, also read [personal academic preferences](personal-academic-preferences.md).
 
 ## Audit the Whole Deck Before Borrowing a Pattern
 
-Review every slide, then record findings in four buckets:
+Review every slide, then record findings in four buckets. The transfer exclusions below apply to unrelated third-party inspiration; honor explicitly authorized personal templates and assets:
 
 | Bucket | Capture | Do not transfer |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Use the reference to decide whether the audience expects a short research summar
 
 ## Explain Methods as a Sequence of Questions
 
-For a multi-part model or pipeline, begin with one overview that anchors inputs, outputs, and the core novelty. Then add a progressive sequence only for components that need it. Each component slide should answer:
+Give early orientation to the purpose and core novelty. For a multi-part model, introduce essential entities before the detailed workflow, then explain only components that need depth. Add a concrete failure/mapping example when it makes the next component's purpose clear. Each component slide should answer:
 
 - What does this component do?
 - Why is it necessary relative to the preceding component or baseline?
@@ -52,7 +52,7 @@ Never present an ablation as a separate headline result without explaining what 
 
 ## Adapt Visual Rhythm Carefully
 
-- Alternate orientation, method, data/protocol, result, and interpretation slides so the deck does not become a repeated wall of diagrams or tables.
+- Vary composition when the teaching job changes. Preserve coherent method stages and consecutive worked examples; do not alternate page types merely to enforce variety.
 - Use section dividers only when they reset the audience's question; otherwise retain the context with a compact section label or progress cue.
 - Prefer native editable charts and tables when recreating values from the paper. A reference deck's image-based tables or charts are not a reason to rasterize new evidence.
 - Place the conclusion next to the condition it depends on. A large accuracy number without dataset, metric, comparison, or caveat is not an evidence slide.
@@ -62,7 +62,7 @@ Never present an ablation as a separate headline result without explaining what 
 
 Before handoff, verify that the new deck:
 
-- reflects the reference's useful level of explanation without copying its content or visual assets;
+- reflects the reference's useful level of explanation, reusing personal template/assets only when authorized and not copying unrelated third-party content;
 - retains an audience-facing overview before technical detail;
 - makes every result slide identify its comparison, condition, and takeaway;
 - separates the paper's reported facts from illustrative or newly generated visuals; and

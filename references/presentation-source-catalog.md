@@ -47,7 +47,7 @@ Use the curated real-world cases in [presentation-case-library.md](presentation-
 ## Reference Selection Rules
 
 1. Start with the delivery platform and the audience's decision context.
-2. Select one actual case matching the deck type and one domain-relevant reference before selecting a general visual trend.
+2. Use the supplied source and learned personal reference first. Consult an external case or domain reference only to resolve a concrete evidence or design gap; there is no minimum reference count.
 3. Use no more than one purely aesthetic reference per deck direction.
 4. Adapt hierarchy, rhythm, and information patterns; do not clone a brand, layout, or proprietary visual asset.
 5. Prefer the supplied brand system, data, and product images over external inspiration.

@@ -1,4 +1,4 @@
 interface:
   display_name: "Presentation Design Pro"
-  short_description: "Design evidence-led, decision-oriented presentation systems."
-  default_prompt: "Use $presentation-design-pro to design an evidence-led deck before selecting the appropriate slide production workflow."
+  short_description: "Build evidence-led decks with companion Markdown outlines."
+  default_prompt: "Use $presentation-design-pro to plan, write, and deliver an editable PPT plus a synchronized architecture Markdown file from my source, applying my learned academic preferences and saved 個人 PPT 視覺模板 unless I specify otherwise."

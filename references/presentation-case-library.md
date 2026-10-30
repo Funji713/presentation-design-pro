@@ -1,6 +1,6 @@
 # Actual Presentation Case Library
 
-These are real public presentations, recordings, or presentation PDFs. They are calibration material, not templates to reproduce. Before using a case, view the full PDF or at least five consecutive minutes of a recording, identify its audience and intended decision, and record the two or three elements worth adapting.
+These public presentations, recordings, and PDFs are optional calibration material, not templates to reproduce. The supplied source and learned personal profile often suffice. If an external case will resolve a specific design gap, inspect enough consecutive material to understand its audience and relevant pattern. Do not claim to have reviewed a case that was not inspected, and do not treat its facts as evidence for the current topic.
 
 ## Case Index
 
