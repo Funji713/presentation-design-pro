@@ -4,11 +4,11 @@ Use for new decks and substantive redesigns. For academic work, apply [personal 
 
 ## Visual system
 
-For PPTX, inherit the saved template's 16:9 light canvas, Livvic/Lato Latin hierarchy, compatible CJK typography, lavender/cyan/yellow accents, and restrained chrome. A preferred current reference controls composition/density. Adapt geometry to content; replace demo text and irrelevant photos. Keep the retained template unchanged.
+For PPTX, first use an accessible template already supplied, explicitly selected, or explicitly configured locally by the current user; no default template is bundled. Use its aspect ratio, masters, typography, palette, and chrome. Adapt geometry to evidence, replace demo text and irrelevant photos, and keep the source template unchanged. A supplied current reference may guide composition/density when authorized.
 
-Template colors group stages; selective red emphasis identifies the current operation, condition, comparison, or readout. Maintain contrast and non-color cues. Do not copy every manually adjusted font size as a global rule.
+Use the chosen template's semantic colors to group stages and highlight the current operation, condition, comparison, or readout. The SuperAnimal example uses a 16:9 light canvas, Livvic/Lato typography, lavender/cyan/yellow accents, and selective red emphasis; these describe that example rather than a reusable default. Maintain contrast and non-color cues. Do not copy incidental font reductions as a global rule.
 
-For another format without a template, a useful starting palette is `#F8F8F8`, `#37363A`, `#514889`, `#B6BAF5`, `#9DDEEA`, `#FFDA87`. Follow explicit branding first.
+If a template or visual system is missing, continue evidence and narrative planning, then request the user's template selection only if no accessible supplied, selected, or explicitly configured local template exists before template-specific production. Do not silently fall back to the example palette or a blank design.
 
 ## Choose visuals by teaching job
 

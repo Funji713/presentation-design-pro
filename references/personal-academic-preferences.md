@@ -2,7 +2,7 @@
 
 Learned from `SuperAnimal_old.pptx` (33 slides) and the user's preferred `SuperAnimal_new.pptx` (35 slides), compared with the supplied outline and paper on 2026-10-30. Apply the transferable decisions from planning through production. Do not copy this paper's facts, people, date, language, or slide count into another deck.
 
-The user retained most typography, palette, source assets, and template chrome. The main learning is how to teach the material and help the audience read its evidence. A cosmetic restyle alone does not satisfy this preference.
+The reference user retained most typography, palette, source assets, and template chrome. These are historical observations about the finished example, not a default template supplied to other users. Use an accessible template the current user has supplied, selected, or explicitly configured locally; ask for one only if none is available; do not automatically clone the example's masters, colors, or fonts. The transferable learning is how to teach the material and help the audience read its evidence. A cosmetic restyle alone does not apply that learning.
 
 ## Evidence and reusable decisions
 
@@ -32,7 +32,7 @@ The user retained most typography, palette, source assets, and template chrome. 
 
 ## Visual calibration
 
-These screenshots are private design references, not content sources for future topics. Inspect the relevant pair when calibrating a method/result page:
+These screenshots are design calibration references, not content sources or blank templates for future topics. Inspect the relevant pair when calibrating a method/result page:
 
 - [new 21: causal example](../assets/calibration/new-21.png)
 - [old 22](../assets/calibration/old-22.png) → [new 24: focused process](../assets/calibration/new-24.png)
@@ -54,4 +54,4 @@ Study relative scale, reading order, native labels, and selective emphasis. Do n
 
 ## Acceptance questions
 
-Can this deck be built from the source without a user-written outline? Are prerequisites explained before use? Does a concrete example close any causal gap? Are stages and result conditions visible? Can the audience read comparisons without doing all the arithmetic? Does the PPT preserve the familiar visual system while making the new subject understandable?
+Can this deck be built from the source without a user-written outline? Are prerequisites explained before use? Does a concrete example close any causal gap? Are stages and result conditions visible? Can the audience read comparisons without doing all the arithmetic? Does the PPT follow the current user's chosen template while making the new subject understandable?

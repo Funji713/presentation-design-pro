@@ -1,6 +1,6 @@
 ---
 name: presentation-design-pro
-description: Create evidence-grounded presentations from papers, articles, or supplied material, including one-line requests without an outline. Plan the teaching sequence, write slide content, select evidence, and deliver an editable deck with a synchronized architecture Markdown file, using the user's learned academic preferences and saved PPT template unless overridden.
+description: Create evidence-grounded presentations from papers, articles, or supplied material, including one-line requests without an outline. Plan the teaching sequence, write slide content, select evidence, and deliver an editable deck with a synchronized architecture Markdown file, applying the learned academic narrative guidance and a template supplied or selected by the current user.
 ---
 
 # Presentation Design Pro
@@ -10,10 +10,10 @@ Design the argument, visible explanation, and evidence together, then complete p
 ## Routing and priorities
 
 - Follow the current request's audience, language, format, time/page limit, outline, and template. Reserve one standalone final slide titled「謝謝聆聽」and count it within every requested slide total, including short decks. Keep this exact default wording unless the user explicitly overrides the closing wording or language; a general content-language inference does not change it. The thank-you slide must be the physical last slide and the last slide entry in the companion architecture Markdown. Put substantive conclusions, Q&A, sources, credits pages, and any appendix/backup slides before it.
-- For a paper, thesis, or technical research talk, read [paper-to-slides](references/paper-and-article-to-slides.md) and [personal academic preferences](references/personal-academic-preferences.md) **before outlining**. These learned preferences govern narrative, writing, evidence selection, and composition, not just colors. They are defaults for this user's academic decks, not a universal structure for unrelated presentations.
+- For a paper, thesis, or technical research talk, read [paper-to-slides](references/paper-and-article-to-slides.md) and [personal academic preferences](references/personal-academic-preferences.md) **before outlining**. These learned preferences govern narrative, writing, evidence selection, and composition, not just colors. Use these example-derived academic narrative defaults when appropriate to the current brief; they do not prescribe the example's visual template or a universal structure for unrelated presentations.
 - Read [visual style](references/visual-first-deck-style.md) for new decks or substantive redesigns and [slide blueprint](references/slide-blueprint-storyboard.md) when specifying pages.
-- For PowerPoint, use the saved [個人 PPT 視覺模板](../artifact-template-ppt/SKILL.md), whose retained file is `../artifact-template-ppt/assets/reference.pptx`. Use its masters, typography, palette, and chrome as a base. Explicitly carry the personal profile's content-driven layout adaptations into the template workflow. Do not force evidence into a sample layout or retain demo content. Keep the retained template unchanged.
-- Preserve the retained template's attribution: keep its Slidesgo credit unobtrusively on the final thank-you slide or on a preceding credits page unless a supplied license permits omission. Keep the closing clean in the existing template; do not force a decorative image. Do not mistake required attribution for removable demo content.
+- This distribution does not include a default presentation template. Before template-specific production, use a template the user has supplied, explicitly selected, or explicitly configured as a local preference, if accessible and authorized. Ask the user to supply or select one only when none is available; do not ask again for an accessible existing selection. Continue source reading, evidence mapping, and narrative planning while it is missing; do not invent a blank fallback or treat a finished example/calibration screenshot as the default template. Use the chosen template's masters, typography, palette, and chrome, adapting geometry to evidence and removing demo content. Preserve the source template unchanged.
+- Preserve the chosen template's actual license and required attribution, unobtrusively on the final thank-you slide or on a preceding credits page. Apply Slidesgo credit only when the selected template requires it; it is not a universal requirement. Keep the closing clean in the chosen template; do not force a decorative image or remove required attribution as demo content.
 - For an additional user-supplied academic reference, read [reference-deck audit](references/academic-paper-reference-audit.md). Separate authorized personal references from third-party inspiration.
 - Use [foundations](references/presentation-foundations.md) for a concrete narrative/readability decision. Use the [source catalog](references/presentation-source-catalog.md) and [case library](references/presentation-case-library.md) only when external guidance would resolve a real gap. There is no outside-source, case, theory, or generated-image quota.
 
@@ -23,7 +23,7 @@ User-selected styles override defaults. Sources establish facts; reference decks
 
 Record internally: audience/background, purpose, live versus async setting, scope, language, time/page limit, evidence, output format, and visual reference. Infer reasonable defaults from context and sources. Ask only when a missing decision materially changes the assignment and cannot be inferred. Do not request an outline or page-by-page instructions the source allows you to build.
 
-For a minimal paper request, default to an editable PPTX, an academic audience needing the method explained, and the saved personal visual system. Infer language from the current request and context; the English calibration deck is not a permanent English-only preference. Choose length based on teaching burden, never the calibration deck's 35 pages.
+For a minimal paper request, default to an editable PPTX, an academic audience needing the method explained, and a template supplied or selected by the current user. Infer language from the current request and context; the English calibration deck is not a permanent English-only preference. Choose length based on teaching burden, never the calibration deck's 35 pages.
 
 Deliver a companion architecture Markdown file whenever producing a deck, unless the user explicitly excludes it. Use matching names such as `Topic.pptx` and `Topic_outline.md`, saved together in the requested output location. This is a real user-facing `.md` file, not only a chat outline. Keep raw research logs and scratch planning internal. Proceed through authorized production without a mandatory outline or design approval stop.
 
@@ -69,11 +69,11 @@ Remove repeated conclusions and tangents. Add an example page when it closes a c
 
 ## 5. Compose evidence-led slides
 
-Use the saved template's 16:9 light canvas, title hierarchy, lavender/cyan/yellow roles, compatible CJK type, and restrained chrome. Match reference typography; do not treat a one-off font reduction as a new standard.
+Use the current user's chosen template for aspect ratio, canvas, title hierarchy, typography, color roles, and chrome. The SuperAnimal example's 16:9 light canvas and lavender/cyan/yellow palette illustrate one finished design, not a bundled default or a required style. Apply its transferable evidence scale and reading order without automatically cloning its appearance or incidental font reductions.
 
 - Prefer original scientific figures and readable crops for evidence, editable tables/charts for selected numerical comparisons, and precise labeled diagrams for mechanisms.
 - Enlarge the useful panel before adding another picture. Keep essential legends, units, conditions, and attribution. Preserve image aspect ratio.
-- For the academic profile, use a few editable red words or thin red outlines to identify the exact branch, row, operation, or result discussed. For other decks, use the selected visual system's semantic emphasis color. Pair color with text/position/line treatment.
+- Use the selected visual system's semantic emphasis color for a few editable words or thin outlines identifying the exact branch, row, operation, or result discussed. Red emphasis in the academic example is illustrative, not mandatory. Pair color with text/position/line treatment.
 - Use boxes/arrows for actual stages, mappings, or data flow. Avoid decorative card grids. Do not vary a clear representation merely to satisfy a variety quota.
 - Create conceptual imagery only when it explains something the source figure or exact diagram does not. Use the image generation skill when appropriate and distinguish illustration from evidence. Never fabricate measured outputs or factual screenshots.
 - Covers, contents, chapter dividers, and closing pages need no decorative visual.
@@ -82,7 +82,7 @@ Follow the production skill's asset and editability rules. Keep titles, labels, 
 
 ## 6. Produce and inspect
 
-Use the available `presentations` skill for slides and PPTX, with the saved template when applicable. Follow its supported runtime, import/export, and rendering workflow. For another requested format, discover a suitable available route; do not invoke unavailable skills such as `slides` or `html-slides` by name.
+Use the available `presentations` skill for slides and PPTX, with the template supplied or selected by the current user. Follow its supported runtime, import/export, and rendering workflow. For another requested format, discover a suitable available route; do not invoke unavailable skills such as `slides` or `html-slides` by name.
 
 Turn the inventory into the compact [blueprint and architecture Markdown](references/slide-blueprint-storyboard.md), then build actual slides. Maintain the Markdown during production and synchronize it to the final deck after rearrangement, edits, and rendering fixes. Render every slide. Draft renders serve as the storyboard; do not create redundant previews or pause for approval unless requested. Review contact sheets for sequence and full-size pages for dense figures, explanations, and comparisons.
 
