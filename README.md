@@ -6,12 +6,16 @@ Designs evidence-led, decision-oriented presentation systems before production. 
 
 This repository does not include a default presentation template. Please provide or select your own PowerPoint template, or explicitly configure an accessible local template before requesting template-specific slide production. The SyDog-Video deck below is a finished example, not a default template. Respect the license and attribution requirements of the template you select.
 
+## Default language
+
+Slides and the companion architecture document default to English; spoken speaker notes default to Traditional Chinese. Explicit language instructions override these defaults. The final slide defaults to “Thank you” for an English deck.
+
 ## Example: SyDog-Video
 
 - [Editable 31-slide PowerPoint](examples/sydog-video/SyDog-Video.pptx)
 - [Slide architecture and speaker notes](examples/sydog-video/SyDog-Video_outline.md)
 
-This Traditional Chinese research presentation demonstrates source-grounded narrative, editable tables, and a final thank-you slide. Its figures are cropped from Shooter, Malleson and Hilton, *SyDog-Video* (2024), [doi:10.1007/s11263-023-01946-z](https://doi.org/10.1007/s11263-023-01946-z), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The presentation includes the required Slidesgo/Flaticon/Freepik template credits; these credits apply to this example, not to every template.
+This English research presentation with Traditional Chinese speaker notes demonstrates source-grounded narrative, editable tables, and a final thank-you slide. Its figures are cropped from Shooter, Malleson and Hilton, *SyDog-Video* (2024), [doi:10.1007/s11263-023-01946-z](https://doi.org/10.1007/s11263-023-01946-z), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The presentation includes the required Slidesgo/Flaticon/Freepik template credits; these credits apply to this example, not to every template.
 
 ## Install
 
